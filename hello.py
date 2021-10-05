@@ -1,3 +1,2 @@
-a=5
-b=7
-a,b=b.a
+a=input("enter your name")
+print("Hellow",a)
